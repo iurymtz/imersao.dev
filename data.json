@@ -1,0 +1,1681 @@
+[
+    {
+        "nome": "Flamengo",
+        "descrição": "Mengão",
+        "ano": 1895,
+        "link": "https://www.flamengo.com.br",
+        "principais_jogadores": [
+            "Zico",
+            "Júnior",
+            "Gabigol",
+            "Arrascaeta"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1981,
+                    2019,
+                    2022
+                ]
+            },
+            {
+                "titulo": "Mundial de Clubes",
+                "ano": [
+                    1981
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1980,
+                    1982,
+                    1983,
+                    1992,
+                    2009,
+                    2019,
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Volta Redonda",
+        "descrição": "Voltaço",
+        "ano": 1976,
+        "link": "https://voltaco.com.br",
+        "principais_jogadores": [
+            "Lelê",
+            "Alef Manga",
+            "Fábio",
+            "Valtinho"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2016
+                ]
+            },
+            {
+                "titulo": "Copa Rio",
+                "ano": [
+                    2007
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Corinthians",
+        "descrição": "Timão",
+        "ano": 1910,
+        "link": "https://www.corinthians.com.br",
+        "principais_jogadores": [
+            "Sócrates",
+            "Cássio",
+            "Marcelinho Carioca",
+            "Ronaldo Fenômeno"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Mundial de Clubes FIFA",
+                "ano": [
+                    2000,
+                    2012
+                ]
+            },
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    2012
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1990,
+                    1998,
+                    1999,
+                    2005,
+                    2011,
+                    2015,
+                    2017
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Palmeiras",
+        "descrição": "Verdão",
+        "ano": 1914,
+        "link": "https://www.palmeiras.com.br",
+        "principais_jogadores": [
+            "Ademir da Guia",
+            "Dudu",
+            "Weverton",
+            "Marcos"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1999,
+                    2020,
+                    2021
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1993,
+                    1994,
+                    2016,
+                    2018,
+                    2022,
+                    2023
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    2015,
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "São Paulo",
+        "descrição": "Tricolor Paulista",
+        "ano": 1930,
+        "link": "https://www.saopaulofc.net",
+        "principais_jogadores": [
+            "Rogério Ceni",
+            "Raí",
+            "Kaká",
+            "Careca"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Mundial de Clubes",
+                "ano": [
+                    1992,
+                    1993,
+                    2005
+                ]
+            },
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1992,
+                    1993,
+                    2005
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1977,
+                    1986,
+                    1991,
+                    2006,
+                    2007,
+                    2008
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Vasco da Gama",
+        "descrição": "Gigante da Colina",
+        "ano": 1898,
+        "link": "https://vasco.com.br",
+        "principais_jogadores": [
+            "Roberto Dinamite",
+            "Romário",
+            "Juninho Pernambucano",
+            "Edmundo"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1998
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1974,
+                    1989,
+                    1997,
+                    2000
+                ]
+            },
+            {
+                "titulo": "Copa Mercosul",
+                "ano": [
+                    2000
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Grêmio",
+        "descrição": "Imortal Tricolor",
+        "ano": 1903,
+        "link": "https://gremio.net",
+        "principais_jogadores": [
+            "Renato Gaúcho",
+            "Ronaldinho Gaúcho",
+            "Luis Suárez",
+            "Danrlei"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1983,
+                    1995,
+                    2017
+                ]
+            },
+            {
+                "titulo": "Mundial de Clubes",
+                "ano": [
+                    1983
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    1989,
+                    1994,
+                    1997,
+                    2001,
+                    2016
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Internacional",
+        "descrição": "Colorado",
+        "ano": 1909,
+        "link": "https://www.internacional.com.br",
+        "principais_jogadores": [
+            "Falcão",
+            "Fernandão",
+            "D'Alessandro",
+            "Figueroa"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Mundial de Clubes FIFA",
+                "ano": [
+                    2006
+                ]
+            },
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    2006,
+                    2010
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1975,
+                    1976,
+                    1979
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Santos",
+        "descrição": "Peixe",
+        "ano": 1912,
+        "link": "https://www.santosfc.com.br",
+        "principais_jogadores": [
+            "Pelé",
+            "Neymar",
+            "Robinho",
+            "Zito"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Mundial de Clubes",
+                "ano": [
+                    1962,
+                    1963
+                ]
+            },
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1962,
+                    1963,
+                    2011
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1961,
+                    1962,
+                    1963,
+                    1964,
+                    1965,
+                    1968,
+                    2002,
+                    2004
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Cruzeiro",
+        "descrição": "Raposa",
+        "ano": 1921,
+        "link": "https://cruzeiro.com.br",
+        "principais_jogadores": [
+            "Tostão",
+            "Dirceu Lopes",
+            "Alex",
+            "Fábio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    1976,
+                    1997
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    2003,
+                    2013,
+                    2014
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    1993,
+                    1996,
+                    2000,
+                    2003,
+                    2017,
+                    2018
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Atlético Mineiro",
+        "descrição": "Galo",
+        "ano": 1908,
+        "link": "https://atletico.com.br",
+        "principais_jogadores": [
+            "Reinaldo",
+            "Ronaldinho Gaúcho",
+            "Hulk",
+            "Victor"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    2013
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1971,
+                    2021
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    2014,
+                    2021
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Botafogo",
+        "descrição": "Fogão",
+        "ano": 1904,
+        "link": "https://www.botafogo.com.br",
+        "principais_jogadores": [
+            "Garrincha",
+            "Nilton Santos",
+            "Jairzinho",
+            "Túlio Maravilha"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1995
+                ]
+            },
+            {
+                "titulo": "Copa Conmebol",
+                "ano": [
+                    1993
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Fluminense",
+        "descrição": "Tricolor Carioca",
+        "ano": 1902,
+        "link": "https://www.fluminense.com.br",
+        "principais_jogadores": [
+            "Rivellino",
+            "Fred",
+            "Germán Cano",
+            "Castilho"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Libertadores",
+                "ano": [
+                    2023
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1970,
+                    1984,
+                    2010,
+                    2012
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Athletico Paranaense",
+        "descrição": "Furacão",
+        "ano": 1924,
+        "link": "https://www.athletico.com.br/",
+        "principais_jogadores": [
+            "Alex Mineiro",
+            "Washington",
+            "Fernandinho",
+            "Kléberson"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Sul-Americana",
+                "ano": [
+                    2018,
+                    2021
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    2001
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    2019
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Coritiba",
+        "descrição": "Coxa",
+        "ano": 1909,
+        "link": "https://www.coritiba.com.br/",
+        "principais_jogadores": [
+            "Alex",
+            "Keirrison",
+            "Dirceu Krüger",
+            "Tostão"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1985
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Bahia",
+        "descrição": "Esquadrão de Aço",
+        "ano": 1931,
+        "link": "https://www.esporteclubebahia.com.br/",
+        "principais_jogadores": [
+            "Bobô",
+            "Douglas",
+            "Charles Fabian",
+            "Beijoca"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1959,
+                    1988
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Vitória",
+        "descrição": "Leão da Barra",
+        "ano": 1899,
+        "link": "https://www.ecvitoria.com.br/",
+        "principais_jogadores": [
+            "Dejan Petković",
+            "Bebeto",
+            "Dida",
+            "Ramon Menezes"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2023
+                ]
+            },
+            {
+                "titulo": "Copa do Nordeste",
+                "ano": [
+                    1997,
+                    1999,
+                    2003,
+                    2010
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Sport Recife",
+        "descrição": "Leão da Ilha",
+        "ano": 1905,
+        "link": "https://sportrecife.com.br/",
+        "principais_jogadores": [
+            "Juninho Pernambucano",
+            "Magrão",
+            "Diego Souza",
+            "Vava"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1987
+                ]
+            },
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    2008
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Santa Cruz",
+        "descrição": "Coral",
+        "ano": 1914,
+        "link": "https://santacruzpe.com.br/",
+        "principais_jogadores": [
+            "Rivaldo",
+            "Grafite",
+            "Givanildo Oliveira",
+            "Ramón"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2013
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Náutico",
+        "descrição": "Timbu",
+        "ano": 1901,
+        "link": "https://www.nautico-pe.com.br/",
+        "principais_jogadores": [
+            "Kuki",
+            "Bita",
+            "Jorge Mendonça",
+            "Bizú"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2007
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Ceará",
+        "descrição": "Vozão",
+        "ano": 1914,
+        "link": "https://cearasc.com/",
+        "principais_jogadores": [
+            "Magno Alves",
+            "Gildo",
+            "Sérgio Alves",
+            "Vina"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Nordeste",
+                "ano": [
+                    2015,
+                    2020,
+                    2023
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Fortaleza",
+        "descrição": "Leão do Pici",
+        "ano": 1918,
+        "link": "https://fortaleza1918.com.br/",
+        "principais_jogadores": [
+            "Rogério Ceni (como técnico)",
+            "Clodoaldo",
+            "Rinaldo",
+            "Marcelo Boeck"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Nordeste",
+                "ano": [
+                    2019,
+                    2022
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2018
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Goiás",
+        "descrição": "Esmeraldino",
+        "ano": 1943,
+        "link": "https://www.goiasec.com.br/",
+        "principais_jogadores": [
+            "Túlio Maravilha",
+            "Harlei",
+            "Araújo",
+            "Dill"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1999,
+                    2012
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Atlético Goianiense",
+        "descrição": "Dragão",
+        "ano": 1937,
+        "link": "https://atleticogoianiense.com.br/",
+        "principais_jogadores": [
+            "Márcio",
+            "Jorginho",
+            "Baltazar",
+            "Anaílson"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2016
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2008
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Vila Nova",
+        "descrição": "Tigrão",
+        "ano": 1943,
+        "link": "https://vilanovafc.com.br/",
+        "principais_jogadores": [
+            "Túlio Maravilha",
+            "Fernandão",
+            "Roni",
+            "Tim"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    1996,
+                    2015,
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Avaí",
+        "descrição": "Leão da Ilha",
+        "ano": 1923,
+        "link": "https://www.avai.com.br/",
+        "principais_jogadores": [
+            "Marquinhos Santos",
+            "William",
+            "Décio Antônio",
+            "Zenon"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    1998
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Figueirense",
+        "descrição": "Figueira",
+        "ano": 1921,
+        "link": "https://www.figueirense.com.br/",
+        "principais_jogadores": [
+            "Fernandes",
+            "Edmundo",
+            "Wilson",
+            "Genílson"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Catarinense",
+                "ano": [
+                    1932,
+                    1935,
+                    1936,
+                    1937,
+                    1939,
+                    1941,
+                    1972,
+                    1974,
+                    1994,
+                    1996,
+                    2002,
+                    2003,
+                    2004,
+                    2006,
+                    2008,
+                    2014,
+                    2015,
+                    2018
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Chapecoense",
+        "descrição": "Verdão do Oeste",
+        "ano": 1973,
+        "link": "https://chapecoense.com/",
+        "principais_jogadores": [
+            "Danilo",
+            "Bruno Rangel",
+            "Cleber Santana",
+            "Alan Ruschel"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Sul-Americana",
+                "ano": [
+                    2016
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Criciúma",
+        "descrição": "Tigre",
+        "ano": 1947,
+        "link": "https://www.criciuma.com.br/",
+        "principais_jogadores": [
+            "Paulo Baier",
+            "Mahicon Librelato",
+            "Soares",
+            "Jairo"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    1991
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Juventude",
+        "descrição": "Papo",
+        "ano": 1913,
+        "link": "https://juventude.com.br/",
+        "principais_jogadores": [
+            "Adaílton",
+            "Lauro",
+            "Antônio Carlos Zago",
+            "Flávio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    1999
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1994
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "América Mineiro",
+        "descrição": "Coelho",
+        "ano": 1912,
+        "link": "https://americamineiro.com.br/",
+        "principais_jogadores": [
+            "Euller",
+            "Palhinha",
+            "Jair Bala",
+            "Satyro Taboada"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1997,
+                    2017
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2009
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Guarani",
+        "descrição": "Bugre",
+        "ano": 1911,
+        "link": "https://guaranifc.com.br/",
+        "principais_jogadores": [
+            "Careca",
+            "Zenon",
+            "Amoroso",
+            "Djalminha"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro",
+                "ano": [
+                    1978
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Ponte Preta",
+        "descrição": "Macaca",
+        "ano": 1900,
+        "link": "https://pontepreta.com.br/",
+        "principais_jogadores": [
+            "Dicá",
+            "Washington",
+            "Carlos",
+            "Oscar"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Paulista Série A2",
+                "ano": [
+                    2023
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Red Bull Bragantino",
+        "descrição": "Massa Bruta",
+        "ano": 1928,
+        "link": "https://www.redbullbragantino.com.br/",
+        "principais_jogadores": [
+            "Claudinho",
+            "Artur",
+            "Cleiton",
+            "Léo Ortiz"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Sul-Americana",
+                "ano": [
+                    2021
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2019
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Cuiabá",
+        "descrição": "Dourado",
+        "ano": 2001,
+        "link": "https://cuiabaesporteclube.com.br/",
+        "principais_jogadores": [
+            "Deyverson",
+            "Walter",
+            "Elton",
+            "Jenison"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Verde",
+                "ano": [
+                    2015,
+                    2019
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Paysandu",
+        "descrição": "Papão da Curuzu",
+        "ano": 1914,
+        "link": "https://www.paysandu.com.br/",
+        "principais_jogadores": [
+            "Robgol",
+            "Yago Pikachu",
+            "Vandick",
+            "Iarley"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa dos Campeões",
+                "ano": [
+                    2002
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1991,
+                    2001
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Remo",
+        "descrição": "Leão Azul",
+        "ano": 1905,
+        "link": "https://www.clubedoremo.com.br/",
+        "principais_jogadores": [
+            "Alcino",
+            "Bira",
+            "Agnaldo",
+            "Dico"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2005
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Sampaio Corrêa",
+        "descrição": "Bolívia Querida",
+        "ano": 1923,
+        "link": "http://sampaiocorreafc.com.br/",
+        "principais_jogadores": [
+            "Pimentinha",
+            "Eloir",
+            "Rodrigo Ramos",
+            "Célio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1972
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    1997
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2012
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "CSA",
+        "descrição": "Azulão do Mutange",
+        "ano": 1913,
+        "link": "https://csaoficial.com/",
+        "principais_jogadores": [
+            "Jacozinho",
+            "Souza",
+            "Mota",
+            "Catanha"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Conmebol",
+                "ano": [
+                    1999
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2017
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "CRB",
+        "descrição": "Galo da Pajuçara",
+        "ano": 1912,
+        "link": "https://crboficial.com.br/",
+        "principais_jogadores": [
+            "Joãozinho Paulista",
+            "Aloísio Chulapa",
+            "Silva",
+            "Júlio César"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Alagoano",
+                "ano": [
+                    1927,
+                    1930,
+                    1937,
+                    1938,
+                    1939,
+                    1940,
+                    1950,
+                    1951,
+                    1955,
+                    1956,
+                    1957,
+                    1958,
+                    1961,
+                    1964,
+                    1969,
+                    1970,
+                    1972,
+                    1973,
+                    1976,
+                    1977,
+                    1978,
+                    1979,
+                    1983,
+                    1986,
+                    1987,
+                    1991,
+                    1994,
+                    2002,
+                    2012,
+                    2013,
+                    2015,
+                    2016,
+                    2017,
+                    2018,
+                    2019,
+                    2020,
+                    2021,
+                    2022,
+                    2024
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "ABC",
+        "descrição": "Elefante da Frasqueira",
+        "ano": 1915,
+        "link": "https://abcfc.com.br/",
+        "principais_jogadores": [
+            "Wallyson",
+            "Sérgio Alves",
+            "Alberi",
+            "Danilo"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2010
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "América de Natal",
+        "descrição": "Mecão",
+        "ano": 1915,
+        "link": "https://www.americadenatal.com.br/",
+        "principais_jogadores": [
+            "Souza",
+            "Paulinho Kobayashi",
+            "Pancera",
+            "Hélcio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Nordeste",
+                "ano": [
+                    1998
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2023
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Botafogo-SP",
+        "descrição": "Pantera",
+        "ano": 1918,
+        "link": "https://www.botafogofutebolsa.com.br/",
+        "principais_jogadores": [
+            "Sócrates",
+            "Raí",
+            "Zé Mário",
+            "Geraldão"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2015
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Novorizontino",
+        "descrição": "Tigre do Vale",
+        "ano": 2010,
+        "link": "https://gremionovorizontino.com.br/",
+        "principais_jogadores": [
+            "Pereira",
+            "Cléo Silva",
+            "Jordi",
+            "Danielzinho"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Paulista Série A2",
+                "ano": [
+                    2021
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Mirassol",
+        "descrição": "Leão da Alta Araraquarense",
+        "ano": 1925,
+        "link": "https://mirassolfc.com.br/",
+        "principais_jogadores": [
+            "Xuxa",
+            "Luiz Araújo",
+            "Camilo",
+            "Zé Roberto"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2022
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2021
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Ituano",
+        "descrição": "Galo de Itu",
+        "ano": 1947,
+        "link": "https://www.ituanofc.com/",
+        "principais_jogadores": [
+            "Juninho Paulista",
+            "Richarlyson",
+            "Pierre",
+            "Vinícius"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2003
+                ]
+            },
+            {
+                "titulo": "Campeonato Paulista",
+                "ano": [
+                    2002,
+                    2014
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Santo André",
+        "descrição": "Ramalhão",
+        "ano": 1967,
+        "link": "https://www.ecsantoandre.com.br/",
+        "principais_jogadores": [
+            "Sandro Gaúcho",
+            "Osmar",
+            "Ramalho",
+            "Júlio César"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa do Brasil",
+                "ano": [
+                    2004
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "São Bernardo",
+        "descrição": "Tigre do ABC",
+        "ano": 2004,
+        "link": "https://www.saobernardofc.com.br/",
+        "principais_jogadores": [
+            "Alex Reinaldo",
+            "Chrystian Barletta",
+            "Daniel",
+            "Lúcio Flávio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Paulista",
+                "ano": [
+                    2013,
+                    2021
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Portuguesa",
+        "descrição": "Lusa",
+        "ano": 1920,
+        "link": "https://portuguesa.com.br/",
+        "principais_jogadores": [
+            "Dener",
+            "Enéas",
+            "Capitão",
+            "Rodrigo Fabri"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2011
+                ]
+            },
+            {
+                "titulo": "Torneio Rio-São Paulo",
+                "ano": [
+                    1952,
+                    1955
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Paraná Clube",
+        "descrição": "Tricolor da Vila",
+        "ano": 1989,
+        "link": "https://www.paranaclube.com.br/",
+        "principais_jogadores": [
+            "Ricardinho",
+            "Saulo",
+            "Lúcio Flávio",
+            "Maurílio"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1992,
+                    2000
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Londrina",
+        "descrição": "Tubarão",
+        "ano": 1956,
+        "link": "https://www.londrinaesporteclube.com.br/",
+        "principais_jogadores": [
+            "Germano",
+            "Dirceu",
+            "Carlos Alberto Garcia",
+            "Brandão"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    1980
+                ]
+            },
+            {
+                "titulo": "Primeira Liga",
+                "ano": [
+                    2017
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Operário Ferroviário",
+        "descrição": "Fantasma",
+        "ano": 1912,
+        "link": "https://www.operarioferroviario.com.br/",
+        "principais_jogadores": [
+            "Índio",
+            "Djalma Santos",
+            "Simão",
+            "Batata"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2018
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2017
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Brasil de Pelotas",
+        "descrição": "Xavante",
+        "ano": 1911,
+        "link": "https://www.gebrasil.com.br/",
+        "principais_jogadores": [
+            "Cláudio Milar",
+            "Leandrão",
+            "Gustavo Papa",
+            "Eduardo Martini"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Gaúcho",
+                "ano": [
+                    1919
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Joinville",
+        "descrição": "Coelho",
+        "ano": 1976,
+        "link": "https://www.jec.com.br/",
+        "principais_jogadores": [
+            "Lima",
+            "Marcelinho Paraíba",
+            "Nardela",
+            "Fabinho"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série B",
+                "ano": [
+                    2014
+                ]
+            },
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2011
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Brusque",
+        "descrição": "Quadricolor",
+        "ano": 1987,
+        "link": "https://brusquefc.com/",
+        "principais_jogadores": [
+            "Edu",
+            "Thiago Alagoano",
+            "Airton",
+            "Palmitos"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2019
+                ]
+            },
+            {
+                "titulo": "Recopa Catarinense",
+                "ano": [
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Tombense",
+        "descrição": "Gavião-Carcará",
+        "ano": 1914,
+        "link": "http://www.tombense.com.br/",
+        "principais_jogadores": [
+            "Ciel",
+            "Daniel Amorim",
+            "Felipe Garcia",
+            "Keké"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2014
+                ]
+            },
+            {
+                "titulo": "Recopa Mineira",
+                "ano": [
+                    2020
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Ypiranga-RS",
+        "descrição": "Canarinho",
+        "ano": 1924,
+        "link": "https://www.yfc.com.br/",
+        "principais_jogadores": [
+            "Erick",
+            "Mossoró",
+            "Léo",
+            "João Paulo"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Gaúcho - Divisão de Acesso",
+                "ano": [
+                    1967,
+                    1989,
+                    2021
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Confiança",
+        "descrição": "Dragão do Bairro Industrial",
+        "ano": 1936,
+        "link": "https://www.adconfianca.com.br/",
+        "principais_jogadores": [
+            "Reis",
+            "Ítalo",
+            "Ari",
+            "Tito"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série D",
+                "ano": [
+                    2014
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Ferroviária",
+        "descrição": "Locomotiva Grená",
+        "ano": 1950,
+        "link": "https://ferroviariasa.com.br/",
+        "principais_jogadores": [
+            "Bazani",
+            "Téia",
+            "Pio",
+            "Marcão"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Paulista",
+                "ano": [
+                    2006,
+                    2017
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "São Caetano",
+        "descrição": "Azulão",
+        "ano": 1989,
+        "link": "https://www.adsaocaetano.com.br/",
+        "principais_jogadores": [
+            "Adhemar",
+            "Serginho Chulapa",
+            "Sílvio Luiz",
+            "Mineiro"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Paulista",
+                "ano": [
+                    2004
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Oeste",
+        "descrição": "Rubrão",
+        "ano": 1921,
+        "link": "https://oestefc.com.br/",
+        "principais_jogadores": [
+            "Fábio",
+            "Mazinho",
+            "Lelê",
+            "Ricardo Bueno"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2012
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Boa Esporte",
+        "descrição": "Coruja",
+        "ano": 1947,
+        "link": "https://www.boaec.com.br/",
+        "principais_jogadores": [
+            "Moacir",
+            "Marcelinho Paraíba",
+            "Francismar",
+            "Wendel"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Campeonato Brasileiro Série C",
+                "ano": [
+                    2016
+                ]
+            }
+        ]
+    },
+    {
+        "nome": "Luverdense",
+        "descrição": "Verdão do Norte",
+        "ano": 2004,
+        "link": "http://www.luverdense.com.br/",
+        "principais_jogadores": [
+            "Alfredo",
+            "Sérgio Mota",
+            "Rafael Silva",
+            "Diogo Silva"
+        ],
+        "titulos_importantes": [
+            {
+                "titulo": "Copa Verde",
+                "ano": [
+                    2016
+                ]
+            }
+        ]
+    }
+]
