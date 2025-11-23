@@ -79,3 +79,4 @@ function renderizarCards(dadosParaRenderizar) {
         cardContainer.appendChild(article);
     }
 }
+
