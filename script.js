@@ -1,5 +1,4 @@
-// Seleciona o container dos cards usando o seletor de classe correto (".")
-const cardContainer = document.querySelector(".card-container");
+const cardConteiner = document.querySelector(".card-conteiner");
 // Adiciona um seletor para o campo de busca que criamos no HTML
 const campoBusca = document.querySelector("#busca");
 // Adiciona um seletor para o botão de busca
@@ -79,5 +78,4 @@ function renderizarCards(dadosParaRenderizar) {
         cardContainer.appendChild(article);
     }
 }
-
 
